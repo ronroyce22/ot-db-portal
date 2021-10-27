@@ -12,7 +12,7 @@ variables:
   azureSubscription: '0b36cd68-a04e-4192-ba29-63a292865c56'
 
   # Web app name
-  webAppName: ''
+  webAppName: 'Database Portal'
 
   # Environment name
   environmentName: 'dev'
