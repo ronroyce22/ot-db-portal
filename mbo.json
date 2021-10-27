@@ -1,0 +1,296 @@
+{
+
+    "ClientServices": [
+        {
+            "ActiveDate": "2019-06-23T00:00:00",
+            "Count": 1,
+            "Current": false,
+            "ExpirationDate": "2102-09-23T00:00:00",
+            "Id": 308131,
+            "ProductId": 110019,
+            "Name": "1st Class Intro - $0.00",
+            "PaymentDate": "2019-06-23T00:00:00",
+            "Program": {
+                "Id": 22,
+                "Name": "Group Fitness",
+                "ScheduleType": "Class",
+                "CancelOffset": 480,
+                "ContentFormats": [
+                    "InPerson"
+                ]
+            },
+            "Remaining": 0,
+            "SiteId": 180824,
+            "Action": "None"
+        },
+        {
+            "ActiveDate": "2021-09-15T00:00:00",
+            "Count": 1000,
+            "Current": true,
+            "ExpirationDate": "2021-10-15T00:00:00",
+            "Id": 584372,
+            "ProductId": 21135,
+            "Name": "Orange Premier Family Add On Membership",
+            "PaymentDate": "2021-09-15T00:00:00",
+            "Program": {
+                "Id": 22,
+                "Name": "Group Fitness",
+                "ScheduleType": "Class",
+                "CancelOffset": 480,
+                "ContentFormats": [
+                    "InPerson"
+                ]
+            },
+            "Remaining": 984,
+            "SiteId": 180824,
+            "Action": "None"
+        }
+    ],
+    "ClientContracts": [
+        {
+            "AgreementDate": "2019-06-25T00:00:00",
+            "AutopayStatus": "Inactive",
+            "ContractName": "Orange Premier Family Add On Membership",
+            "EndDate": "2022-08-08T00:00:00",
+            "Id": 6493,
+            "OriginationLocationId": 1,
+            "StartDate": "2019-06-25T00:00:00",
+            "SiteId": 180824,
+            "UpcomingAutopayEvents": [],
+            "ContractID": 141
+        },
+        {
+            "AgreementDate": "2021-05-25T00:00:00",
+            "AutopayStatus": "Active",
+            "ContractName": "Orange Premier Family Add On Membership",
+            "EndDate": "2024-06-15T00:00:00",
+            "Id": 8147,
+            "OriginationLocationId": 1,
+            "StartDate": "2021-05-31T00:00:00",
+            "SiteId": 180824,
+            "UpcomingAutopayEvents": [
+                {
+                    "ClientContractId": 8147,
+                    "ChargeAmount": 99.00,
+                    "PaymentMethod": "CreditCard",
+                    "ScheduleDate": "2021-10-15T00:00:00"
+                },
+                {
+                    "ClientContractId": 8147,
+                    "ChargeAmount": 99.00,
+                    "PaymentMethod": "CreditCard",
+                    "ScheduleDate": "2021-11-15T00:00:00"
+                },
+                {
+                    "ClientContractId": 8147,
+                    "ChargeAmount": 149.00,
+                    "PaymentMethod": "CreditCard",
+                    "ScheduleDate": "2021-12-15T00:00:00"
+                },
+                {
+                    "ClientContractId": 8147,
+                    "ChargeAmount": 149.00,
+                    "PaymentMethod": "CreditCard",
+                    "ScheduleDate": "2022-01-15T00:00:00"
+                },
+                {
+                    "ClientContractId": 8147,
+                    "ChargeAmount": 149.00,
+                    "PaymentMethod": "CreditCard",
+                    "ScheduleDate": "2022-02-15T00:00:00"
+                },
+                {
+                    "ClientContractId": 8147,
+                    "ChargeAmount": 149.00,
+                    "PaymentMethod": "CreditCard",
+                    "ScheduleDate": "2022-03-15T00:00:00"
+                },
+                {
+                    "ClientContractId": 8147,
+                    "ChargeAmount": 149.00,
+                    "PaymentMethod": "CreditCard",
+                    "ScheduleDate": "2022-04-15T00:00:00"
+                },
+                {
+                    "ClientContractId": 8147,
+                    "ChargeAmount": 149.00,
+                    "PaymentMethod": "CreditCard",
+                    "ScheduleDate": "2022-05-15T00:00:00"
+                },
+                {
+                    "ClientContractId": 8147,
+                    "ChargeAmount": 149.00,
+                    "PaymentMethod": "CreditCard",
+                    "ScheduleDate": "2022-06-15T00:00:00"
+                },
+                {
+                    "ClientContractId": 8147,
+                    "ChargeAmount": 149.00,
+                    "PaymentMethod": "CreditCard",
+                    "ScheduleDate": "2022-07-15T00:00:00"
+                },
+                {
+                    "ClientContractId": 8147,
+                    "ChargeAmount": 149.00,
+                    "PaymentMethod": "CreditCard",
+                    "ScheduleDate": "2022-08-15T00:00:00"
+                },
+                {
+                    "ClientContractId": 8147,
+                    "ChargeAmount": 149.00,
+                    "PaymentMethod": "CreditCard",
+                    "ScheduleDate": "2022-09-15T00:00:00"
+                },
+                {
+                    "ClientContractId": 8147,
+                    "ChargeAmount": 149.00,
+                    "PaymentMethod": "CreditCard",
+                    "ScheduleDate": "2022-10-15T00:00:00"
+                },
+                {
+                    "ClientContractId": 8147,
+                    "ChargeAmount": 149.00,
+                    "PaymentMethod": "CreditCard",
+                    "ScheduleDate": "2022-11-15T00:00:00"
+                },
+                {
+                    "ClientContractId": 8147,
+                    "ChargeAmount": 149.00,
+                    "PaymentMethod": "CreditCard",
+                    "ScheduleDate": "2022-12-15T00:00:00"
+                },
+                {
+                    "ClientContractId": 8147,
+                    "ChargeAmount": 149.00,
+                    "PaymentMethod": "CreditCard",
+                    "ScheduleDate": "2023-01-15T00:00:00"
+                },
+                {
+                    "ClientContractId": 8147,
+                    "ChargeAmount": 149.00,
+                    "PaymentMethod": "CreditCard",
+                    "ScheduleDate": "2023-02-15T00:00:00"
+                },
+                {
+                    "ClientContractId": 8147,
+                    "ChargeAmount": 149.00,
+                    "PaymentMethod": "CreditCard",
+                    "ScheduleDate": "2023-03-15T00:00:00"
+                },
+                {
+                    "ClientContractId": 8147,
+                    "ChargeAmount": 149.00,
+                    "PaymentMethod": "CreditCard",
+                    "ScheduleDate": "2023-04-15T00:00:00"
+                },
+                {
+                    "ClientContractId": 8147,
+                    "ChargeAmount": 149.00,
+                    "PaymentMethod": "CreditCard",
+                    "ScheduleDate": "2023-05-15T00:00:00"
+                },
+                {
+                    "ClientContractId": 8147,
+                    "ChargeAmount": 149.00,
+                    "PaymentMethod": "CreditCard",
+                    "ScheduleDate": "2023-06-15T00:00:00"
+                },
+                {
+                    "ClientContractId": 8147,
+                    "ChargeAmount": 149.00,
+                    "PaymentMethod": "CreditCard",
+                    "ScheduleDate": "2023-07-15T00:00:00"
+                },
+                {
+                    "ClientContractId": 8147,
+                    "ChargeAmount": 149.00,
+                    "PaymentMethod": "CreditCard",
+                    "ScheduleDate": "2023-08-15T00:00:00"
+                },
+                {
+                    "ClientContractId": 8147,
+                    "ChargeAmount": 149.00,
+                    "PaymentMethod": "CreditCard",
+                    "ScheduleDate": "2023-09-15T00:00:00"
+                },
+                {
+                    "ClientContractId": 8147,
+                    "ChargeAmount": 149.00,
+                    "PaymentMethod": "CreditCard",
+                    "ScheduleDate": "2023-10-15T00:00:00"
+                },
+                {
+                    "ClientContractId": 8147,
+                    "ChargeAmount": 149.00,
+                    "PaymentMethod": "CreditCard",
+                    "ScheduleDate": "2023-11-15T00:00:00"
+                },
+                {
+                    "ClientContractId": 8147,
+                    "ChargeAmount": 149.00,
+                    "PaymentMethod": "CreditCard",
+                    "ScheduleDate": "2023-12-15T00:00:00"
+                },
+                {
+                    "ClientContractId": 8147,
+                    "ChargeAmount": 149.00,
+                    "PaymentMethod": "CreditCard",
+                    "ScheduleDate": "2024-01-15T00:00:00"
+                },
+                {
+                    "ClientContractId": 8147,
+                    "ChargeAmount": 149.00,
+                    "PaymentMethod": "CreditCard",
+                    "ScheduleDate": "2024-02-15T00:00:00"
+                },
+                {
+                    "ClientContractId": 8147,
+                    "ChargeAmount": 149.00,
+                    "PaymentMethod": "CreditCard",
+                    "ScheduleDate": "2024-03-15T00:00:00"
+                },
+                {
+                    "ClientContractId": 8147,
+                    "ChargeAmount": 149.00,
+                    "PaymentMethod": "CreditCard",
+                    "ScheduleDate": "2024-04-15T00:00:00"
+                },
+                {
+                    "ClientContractId": 8147,
+                    "ChargeAmount": 149.00,
+                    "PaymentMethod": "CreditCard",
+                    "ScheduleDate": "2024-05-15T00:00:00"
+                }
+            ],
+            "ContractID": 141
+        }
+    ],
+    "ClientMemberships": [
+        {
+            "RestrictedLocations": [],
+            "IconCode": "5",
+            "MembershipId": 209,
+            "ActiveDate": "2021-09-15T00:00:00",
+            "Count": 1000,
+            "Current": true,
+            "ExpirationDate": "2024-06-15T00:00:00",
+            "Id": 584372,
+            "ProductId": null,
+            "Name": "Orange Premier Family Add On Membership",
+            "PaymentDate": "2021-09-15T00:00:00",
+            "Program": {
+                "Id": 22,
+                "Name": "Group Fitness",
+                "ScheduleType": "Class",
+                "CancelOffset": 480,
+                "ContentFormats": [
+                    "InPerson"
+                ]
+            },
+            "Remaining": 984,
+            "SiteId": 180824,
+            "Action": "None"
+        }
+    ],
+    "ClientArrivals": []
+}
